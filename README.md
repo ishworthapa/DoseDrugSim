@@ -1,4 +1,4 @@
-# DoseDrugSim
+# DoseDrugSim (Mock Grant Website)
 Finding optimal schedules for drug and vaccines
 
 # Description of experimental dataset 
